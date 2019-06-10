@@ -36,5 +36,9 @@ Bấm "Next..." để qua giao diện chỉnh màu
 - bấm "Next"
 
 *Muốn chuyển sang chỉnh ảnh khác chỉ cần bấm "Select Image" và chọn ảnh khác (ảnh cùng folder với main.py)
+
 *Sinh viên chạy demo trên sublime text (window) và VScode (ubuntu)
-*Sinh viên có cung cấp video demo
+
+*Sinh viên có cung cấp video demo, link video demo: 
+https://drive.google.com/file/d/1BfXF41LGgPBUSsswXzOBgWiCGk69Tz8i/view?usp=sharing
+
