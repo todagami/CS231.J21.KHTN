@@ -5,8 +5,8 @@ link: https://blog.vietnamlab.vn/2018/01/24/dlib-phan-1-cai-dat-dlib-tren-ubuntu
 
 2/Tải pyQt:
 https://gist.github.com/ujjwal96/1dcd57542bdaf3c9d1b0dd526ccd44ff
-3/ tải file shape_predictor_68_face_landmarks.dat
 
+3/ tải file shape_predictor_68_face_landmarks.dat
 https://github.com/AKSHAYUBHAT/TensorFace/blob/master/openface/models/dlib/shape_predictor_68_face_landmarks.dat?fbclid=IwAR2PPbolCHzH95VncHKZqJnuq4ZZengQMrfFQIleyqr3zXfCnKCnaCdkwSU
 
 *chạy file QtCamera360.py
