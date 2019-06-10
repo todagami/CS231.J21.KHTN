@@ -5,10 +5,10 @@ link: https://blog.vietnamlab.vn/2018/01/24/dlib-phan-1-cai-dat-dlib-tren-ubuntu
 
 2/Tải pyQt:
 https://gist.github.com/ujjwal96/1dcd57542bdaf3c9d1b0dd526ccd44ff
-
+*chạy file QtCamera360.py
 Hướng dẫn chạy giao diện chỉnh màu - color transfer:
 (Để tránh lỗi phát sinh, bấm các lựa chọn theo thứ tự từ trên xuống dưới)
-
+*chạy file main.py
 1. Chỉnh ảnh có sẵn (hình mẫu của sinh viên cung cấp)
 Ảnh mẫu: source.jpg (chung file với main.py)
 - Bấm "Select Image" -> chọn "source.jpg" -> chọn độ contrast & brightness -> bấm "Run" 
